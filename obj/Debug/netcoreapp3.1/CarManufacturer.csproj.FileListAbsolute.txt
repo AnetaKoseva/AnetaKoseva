@@ -1,0 +1,14 @@
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache
+C:\Users\maksk\source\repos\Defining Classes\CarManufacturer\CarManufacturer\bin\Debug\netcoreapp3.1\Tire.cs
